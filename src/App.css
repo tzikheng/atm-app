@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: #eeeeee;
+  padding-top: 10vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1{
+  align-items: center;
+  justify-content: center;
+  font-size: calc(30px + 2vmin);
+  color: rgb(220, 20, 20);
+}
